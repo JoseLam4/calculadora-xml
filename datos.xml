@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <dia>
+        <temperatura>22.5</temperatura>
+        <ventas>150</ventas>
+    </dia>
+    <dia>
+        <temperatura>25.0</temperatura>
+        <ventas>180</ventas>
+    </dia>
+    <dia>
+        <temperatura>28.5</temperatura>
+        <ventas>220</ventas>
+    </dia>
+    <dia>
+        <temperatura>20.0</temperatura>
+        <ventas>120</ventas>
+    </dia>
+    <dia>
+        <temperatura>30.5</temperatura>
+        <ventas>250</ventas>
+    </dia>
+</registros>
